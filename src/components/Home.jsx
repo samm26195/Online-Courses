@@ -24,8 +24,9 @@ const Home = () => {
                           <a href="">
                             <div className="flip-card-inner">
                               <div className="flip-card-front">
-                                <img src="images/admin-courses-57c8e9f41624816ef7c1b1f4edecf2f6.png" alt="Admin / Secretarial / HR" />
-                                <div className="category-title">Admin / Secretarial / HR</div>
+                                {/* <img src="../images/admin-courses-57c8e9f41624816ef7c1b1f4edecf2f6" alt="Admin / Secretarial / HR" /> */}
+                                <img src="../image/animal-care-courses-6a87a529b95d2ecceb9f56cc42a577a5.png" alt="Animal Care" />
+                    
                               </div>
                               <div className="flip-card-back">
                                 <span className="hover">
