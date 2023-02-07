@@ -1,10 +1,7 @@
 import React from 'react';
-import '../App.css';
-import"../media.css";
-import '../theme.css';
+import"../CSS/Media.css";
+import '../CSS/Theme.css';
 
-//import "../../src/index.css";
-//import 'C:\Users\SAMSUDDIN\Desktop\New project\myproject\testapp\src\index.css'
 
 
 
