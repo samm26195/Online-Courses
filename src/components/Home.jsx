@@ -1,8 +1,6 @@
 import React from 'react'
-import '../App.css';
-//import '../meadia.css';
-import"../media.css";
-import '../theme.css';
+import"../CSS/Media.css";
+import '../CSS/Theme.css';
 
 const Home = () => {
   return (

@@ -321,7 +321,8 @@ footer{
     -moz-appearance: none;
     -webkit-appearance: none;
     appearance: none;
-    background: #404040 url('../image/down-arrow.png') no-repeat;
+    /* background: #404040 url('../image/down-arrow.png') no-repeat; */
+    background: #404040 url('../../public/image/down-arrow.png') no-repeat;
     background-position: 90% center;
     padding-left: 20px;
     cursor: pointer;
@@ -668,7 +669,8 @@ footer{
 
 .customer-says {
     width: 100%;
-    background: url(../images/reviews-bg.jpg) no-repeat;
+    /* background: url(../images/reviews-bg.jpg) no-repeat; */
+    background: url(../../public/image/reviews-bg.jpg) no-repeat;
     background-size: cover;
     color: #ffffff;
     padding: 10px 0 50px 0;
@@ -678,7 +680,8 @@ footer{
     padding-left: 170px;
     max-width: 1030px;
     float: right;
-    background: url(../images/quotation.png) no-repeat 92px top;
+    /* background: url(../images/quotation.png) no-repeat 92px top; */
+    background: url(../../public/image/quotation.png) no-repeat 92px top;
     margin-top: 20px;
     position:relative;
     min-height:224px;
@@ -911,7 +914,8 @@ footer{
 
 
 .xo-box {
-    background: url(../images/xo-bg.png) no-repeat !important;
+    /* background: url(../images/xo-bg.png) no-repeat !important; */
+    background: url(../../public/image/xo-bg.png) no-repeat !important;
     background-size: cover;
 }
 
@@ -1574,7 +1578,6 @@ div#reviews h4 {
 }
 .single-course-content .tab-content li {
     margin-bottom: 1.3rem;
-    argin-bottom: -5px;
     font-size: 1.1rem;
     line-height: 15px;
 }
@@ -2030,7 +2033,8 @@ div#creviews h4 {
 }
 #freeCourseLeave .modal-content {
     border:0;
-    background-image:url('../images/freeCourseBG.png');
+    /* background-image:url('../images/freeCourseBG.png'); */
+    background-image:url('../../public/image/freeCourseBG.png');
     background-size:cover;
     background-position:center center;
 }
@@ -2443,13 +2447,15 @@ div#creviews h4 {
     left: 0;
     z-index: -1;
     height: 100%;
-    background: url('../src/image/banner-subscriptions.jpg') no-repeat;
+    /* background: url('../src/image/banner-subscriptions.jpg') no-repeat; */
+    background: url('../../public/image/banner-subscriptions.jpg') no-repeat;
     background-position: center;
     background-size: cover;
     width: 100%;
 }
 .subscription2 .subscription-banner{
-    background: url('../src/images/banner-subscriptions22.jpeg') no-repeat;
+    /* background: url('../src/images/banner-subscriptions22.jpeg') no-repeat; */
+    background: url('../../public/image/banner-subscriptions22.jpeg') no-repeat;
     background-size: cover;
     background-position: center;
 }
