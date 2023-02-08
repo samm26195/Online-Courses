@@ -211,7 +211,7 @@ main.HomePage{
 
 .totals-section{
     width: 100%;
-    background: url('') no-repeat;
+    background: url('../public/image/totals-bg.jpg') no-repeat;
     background-size: cover;
     color: #ffffff;
 }

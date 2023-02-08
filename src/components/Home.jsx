@@ -2,6 +2,7 @@ import React from 'react'
 import"../CSS/Media.css";
 import '../CSS/Theme.css';
 
+
 const Home = () => {
   return (
     <>
@@ -24,7 +25,7 @@ const Home = () => {
                           <a href="">
                             <div className="flip-card-inner">
                               <div className="flip-card-front">
-                                <img src="images/admin-courses-57c8e9f41624816ef7c1b1f4edecf2f6.png" alt="Admin / Secretarial / HR" />
+                                <img src="../image/admin-courses-57c8e9f41624816ef7c1b1f4edecf2f6.png" alt="Admin / Secretarial / HR" />
                                 <div className="category-title">Admin / Secretarial / HR</div>
                               </div>
                               <div className="flip-card-back">
