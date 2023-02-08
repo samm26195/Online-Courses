@@ -25,8 +25,8 @@ const Getaccess = () => {
                             <li><i class="fa fa-check-circle" aria-hidden="true"></i> Unlimited access to study <small>(max 50 active courses at any one time)</small></li>
                             <li><i class="fa fa-check-circle" aria-hidden="true"></i> Career matching service</li>
                             <li><i class="fa fa-check-circle" aria-hidden="true"></i> Free XO Student Discounts membership</li>                        </ul>
-
-                        <a href="" class="premium_start_button">Start Now</a>
+                           
+                       
                     </div>
                 </div>
             </div>

@@ -240,7 +240,7 @@ main.HomePage{
     left: 0;
     z-index: -1;
     height: calc(100% - 45px);
-    background: url("") no-repeat;
+    background: url("../public/image/teens-bg-banner.jpg") no-repeat;
     background-position: center;
     background-size: cover;
     width: 100%;
@@ -453,7 +453,7 @@ label.premium_membership{
     margin-right: 10px;
 }
 .premium_price{
-    background-image: url();
+    background-image: url('../public/image/subscribe-price.png');
     width: 160px;
     height: 160px;
     text-align: center;
