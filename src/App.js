@@ -15,19 +15,18 @@ import Total from './components/Total';
 function App() {
   return (
     <>
-    <Top />
-    <Navbar />
-    <Header />
-    
-    <Home />
-    <Courses />
-    <Freecourses />
-    <Padded />
-    <Getaccess />
-    <Learn />
-    <Total />
-    <Featured />
-    
+      <Top />
+      <Navbar />
+      <Header />
+      <Home />
+      <Courses />
+      <Freecourses />
+      <Padded />
+      <Getaccess />
+      <Learn />
+      <Total />
+      <Featured />
+
     </>
   );
 }
