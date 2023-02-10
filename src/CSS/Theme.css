@@ -1651,6 +1651,11 @@ div#reviews h4 {
 .reviewsSlider .owl-nav button.owl-prev{
     left: 0px;
 }
+.top-header{
+    position: absolute;
+    top:1%;
+    left:0%
+}
 .top-header.sticky{
     position: fixed;
     width: 100%;
