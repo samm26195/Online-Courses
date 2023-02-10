@@ -12,10 +12,11 @@ const Header = () => {
 
             <header className="homeHeader">
 
-
                 <div className="container home-banner-section wider-container">
-                    <div className="home-banner">
-                    </div>
+                    {/* background image div open */}
+                    <div className="home-banner"></div>
+                    {/* background image div close */}
+
                     <div className="row text-center">
                         <h2 className="home-banner-title">Change Your Life With A New Skill</h2>
                         <h3 className="home-banner-subtitle" style={{ color: "#fff;" }}>Join Over 916,000 students and study one of our <br /> 890+ career enhancing, confidence boosting courses</h3>
@@ -32,10 +33,7 @@ const Header = () => {
 
                         </div>
 
-
                         <div className="col-12 reviews-home">
-
-
                             <div className="trustpilot-widget" data-locale="en-GB" data-template-id="53aa8912dec7e10d38f59f36" data-businessunit-id="5b450fa2ad92290001bfac20" data--height="160px" data--width="100%" data-theme="dark" data-stars="5" data-schema-type="Organization">
                             </div>
 
