@@ -670,7 +670,7 @@ footer{
 .customer-says {
     width: 100%;
     /* background: url(../images/reviews-bg.jpg) no-repeat; */
-    background: url(../../public/image/reviews-bg.jpg) no-repeat;
+    background: url("../../public/image/reviews-bg.jpg") no-repeat;
     background-size: cover;
     color: #ffffff;
     padding: 10px 0 50px 0;
@@ -681,7 +681,7 @@ footer{
     max-width: 1030px;
     float: right;
     /* background: url(../images/quotation.png) no-repeat 92px top; */
-    background: url(../../public/image/quotation.png) no-repeat 92px top;
+    background: url("../../public/image/quotation.png") no-repeat 92px top;
     margin-top: 20px;
     position:relative;
     min-height:224px;
@@ -915,7 +915,7 @@ footer{
 
 .xo-box {
     /* background: url(../images/xo-bg.png) no-repeat !important; */
-    background: url(../../public/image/xo-bg.png) no-repeat !important;
+    background: url("../../public/image/xo-bg.png") no-repeat !important;
     background-size: cover;
 }
 
