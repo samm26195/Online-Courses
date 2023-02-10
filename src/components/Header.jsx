@@ -1,5 +1,5 @@
 import React from 'react';
-import"../CSS/Media.css";
+import "../CSS/Media.css";
 import '../CSS/Theme.css';
 import '../App.css';
 
@@ -9,10 +9,10 @@ import '../App.css';
 const Header = () => {
     return (
         <>
-            
+
             <header className="homeHeader">
 
-                
+
                 <div className="container home-banner-section wider-container">
                     <div className="home-banner">
                     </div>
@@ -29,7 +29,7 @@ const Header = () => {
                             <a href="">See All Courses</a>
                             <a href="" className="featured"><i className="fas fa-medal"></i> Unlimited Learning</a>
                             <a href="">Redeem a Voucher</a>
-                            
+
                         </div>
 
 
@@ -54,7 +54,7 @@ const Header = () => {
                 </form>
             </div>
 
-           
+
 
 
         </>

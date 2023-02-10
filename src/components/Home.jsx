@@ -6,9 +6,6 @@ import '../CSS/Theme.css';
 const Home = () => {
   return (
     <>
-      
-
-      
         <div className="container wider-container" style={{marginTop:"-90px"}}>
 
           <div className="home-slider padded-sec">

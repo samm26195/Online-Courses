@@ -20,8 +20,7 @@ function App() {
     <>
     <Top />
     <Navbar />
-    <Header />
-    
+    <Header />   
     <Home />
     <Courses />
     <Freecourses />
@@ -33,8 +32,6 @@ function App() {
     <Validate />
     <Preview />
     <Footer />
-   
-    
     </>
   );
 }
