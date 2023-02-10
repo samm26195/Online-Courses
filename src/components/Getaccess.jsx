@@ -13,7 +13,15 @@ const Getaccess = () => {
                             <img src="../image/course-trophy.png" alt="course trophy" />
                             <label class="premium_membership">Premium Membership</label>
                         </div>
-                        <div class="col-md-9">
+                        <ul class="premium_list">
+                            <li><i class="fa fa-check-circle" aria-hidden="true"></i> Study 700+ courses</li>
+                            <li><i class="fa fa-check-circle" aria-hidden="true"></i> Unlimited access to study <small>(max 50 active courses at any one time)</small></li>
+                            <li><i class="fa fa-check-circle" aria-hidden="true"></i> Career matching service</li>
+                            <li><i class="fa fa-check-circle" aria-hidden="true"></i> Free XO Student Discounts membership</li>
+                            </ul>
+                           
+                       
+                        /*<div class="col-md-9">
                             <h3 class="premium_title">Get Access To Our Entire Course Library</h3>
                             <div class="premium_price">
                                 <span>Only</span>
@@ -24,8 +32,9 @@ const Getaccess = () => {
                                 <li><i class="fa fa-check-circle" aria-hidden="true"></i> Study 700+ courses</li>
                                 <li><i class="fa fa-check-circle" aria-hidden="true"></i> Unlimited access to study <small>(max 50 active courses at any one time)</small></li>
                                 <li><i class="fa fa-check-circle" aria-hidden="true"></i> Career matching service</li>
-                                <li><i class="fa fa-check-circle" aria-hidden="true"></i> Free XO Student Discounts membership</li>                        </ul>
-
+                                <li><i class="fa fa-check-circle" aria-hidden="true"></i> Free XO Student Discounts membership</li>
+                                </ul>
+                          */
                             <a href="" class="premium_start_button">Start Now</a>
                         </div>
                     </div>
